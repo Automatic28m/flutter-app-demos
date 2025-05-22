@@ -21,9 +21,6 @@
     <li><strong>state_management_demo</strong><br />
       Demonstrates different state management techniques and patterns in Flutter applications.
     </li>
-    <li><strong>store_demo</strong><br />
-      A demo showcasing a simple store app concept, illustrating UI design and basic Flutter functionality.
-    </li>
   </ul>
   <h2>Additional Notes</h2>
   <ul>
